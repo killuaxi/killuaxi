@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @killuaxi
 - 👀 I’m interested in traveling
-- 🌱 I’m currently learning English 
 - 💞️ I’m looking to collaborate on with anyone 
+
+
+
 
 <!---
 killuaxi/killuaxi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
